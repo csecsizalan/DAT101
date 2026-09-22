@@ -12,6 +12,7 @@ printOut(orgMatExp)
 printOut(newMathExp)
 printOut(part1Answer)
 
+
 printOut(newLine);
 
 printOut("--- Part 2 ----------------------------------------------------------------------------------------------");
